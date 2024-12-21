@@ -8,7 +8,8 @@ Earnings for Sharing Exam Preparation Tips
 
 ## Contract Address
 0x2B6BE58c7cc7faBfCe0fa5A20339249907F06DD6
-## Project Vision
+![image](https://github.com/user-attachments/assets/8a826a23-3450-4601-9e10-6323c0973001)
+
 
 ## Key Features
 - **Create Exam Tips**: Users can create exam tips by adding a title, description, and price. Each tip is uniquely identified by an ID.
